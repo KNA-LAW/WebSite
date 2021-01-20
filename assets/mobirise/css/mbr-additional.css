@@ -1093,7 +1093,7 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-slLUnitk87 .mbr-section-subtitle {
-  color: #767676;
+  color: #bf1e2e;
   font-weight: 300;
 }
 .cid-slLUnitk87 .mbr-content-text {
@@ -1145,6 +1145,12 @@ section.lazy-placeholder:after {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-slLUnitk87 .mbr-section-title {
+  color: #027824;
+}
+.cid-slLUnitk87 .count {
+  color: #bf1e2e;
 }
 .cid-slMidOeo37 {
   padding-top: 60px;
