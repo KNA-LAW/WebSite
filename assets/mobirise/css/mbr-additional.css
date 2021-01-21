@@ -1268,7 +1268,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-slMO1CFekv .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-slMO1CFekv .tabcont {
   -webkit-justify-content: center;
@@ -1317,6 +1317,9 @@ section.lazy-placeholder:after {
 }
 .cid-slMO1CFekv .nav-tabs .nav-link.active:hover {
   border: 2px solid #149dcc;
+}
+.cid-slMO1CFekv H2 {
+  color: #bf1e2e;
 }
 .cid-slMUwegePY {
   padding-top: 90px;
