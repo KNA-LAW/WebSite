@@ -1097,7 +1097,7 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-slLUnitk87 .mbr-content-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-slLUnitk87 .card {
   word-wrap: break-word;
@@ -1151,6 +1151,9 @@ section.lazy-placeholder:after {
 }
 .cid-slLUnitk87 .count {
   color: #bf1e2e;
+}
+.cid-slLUnitk87 H4 {
+  color: #ff0000;
 }
 .cid-slMidOeo37 {
   padding-top: 60px;
