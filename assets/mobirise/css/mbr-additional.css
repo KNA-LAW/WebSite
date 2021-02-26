@@ -1474,7 +1474,7 @@ section.lazy-placeholder:after {
 }
 .cid-slMXCSkvrK {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
