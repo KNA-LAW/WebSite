@@ -1423,7 +1423,7 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-slMVSR0aA6 .mbr-text {
-  color: #767676;
+  color: #027824;
 }
 .cid-slMVSR0aA6 textarea.form-control {
   min-height: 100px;
@@ -1433,7 +1433,7 @@ section.lazy-placeholder:after {
   border-radius: 3px;
 }
 .cid-slMVSR0aA6 .google-map {
-  height: 37rem;
+  height: 45rem;
   position: relative;
 }
 .cid-slMVSR0aA6 .google-map iframe {
@@ -1477,6 +1477,12 @@ section.lazy-placeholder:after {
 .cid-slMVSR0aA6 .icon-block,
 .cid-slMVSR0aA6 .icon-block .icon-block__title {
   color: #ef0000;
+}
+.cid-slMVSR0aA6 H5 {
+  color: #ff0000;
+}
+.cid-slMVSR0aA6 P {
+  color: #027824;
 }
 .cid-slMXCSkvrK {
   padding-top: 30px;
