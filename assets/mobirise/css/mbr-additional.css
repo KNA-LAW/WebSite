@@ -679,13 +679,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-slLU74O1w0 .navbar {
-  background: #ffffff;
+  background: #f3f9ff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-slLU74O1w0 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #f3f9ff;
 }
 .cid-slLU74O1w0 a {
   font-style: normal;
@@ -776,7 +776,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-slLU74O1w0 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #f3f9ff;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1081,7 +1081,7 @@ section.lazy-placeholder:after {
 .cid-slLUnitk87 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-slLUnitk87 .mbr-section-subtitle {
   color: #bf1e2e;
@@ -1149,7 +1149,7 @@ section.lazy-placeholder:after {
 .cid-slMidOeo37 {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-slMidOeo37 .nav-tabs {
   -webkit-justify-content: center;
@@ -1253,13 +1253,13 @@ section.lazy-placeholder:after {
 .cid-slMO1CFekv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-slMO1CFekv .mbr-section-text {
   color: #232323;
 }
 .cid-slMO1CFekv .mbr-section-subtitle {
-  color: #232323;
+  color: #194800;
 }
 .cid-slMO1CFekv .tabcont {
   -webkit-justify-content: center;
@@ -1310,7 +1310,7 @@ section.lazy-placeholder:after {
   border: 2px solid #149dcc;
 }
 .cid-slMO1CFekv H2 {
-  color: #bf1e2e;
+  color: #db0202;
 }
 .cid-slMO1CFekv H4 {
   color: #027824;
@@ -1318,7 +1318,7 @@ section.lazy-placeholder:after {
 .cid-slMUwegePY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-slMUwegePY h2 {
   text-align: center;
@@ -1402,7 +1402,7 @@ section.lazy-placeholder:after {
 .cid-slMVSR0aA6 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-slMVSR0aA6 .mbr-iconfont {
   font-size: 48px;
@@ -1575,5 +1575,5 @@ section.lazy-placeholder:after {
   }
 }
 .cid-slMXCSkvrK .foot-title {
-  color: #46ff00;
+  color: #11ff00;
 }
