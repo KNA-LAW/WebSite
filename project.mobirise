@@ -73,7 +73,7 @@
     ],
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/kna-law-500-128x128.png",
-    "mbrsiteDomain": "8bqswxdis2",
+    "mbrsiteDomain": "zsbswqzdzw",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -102,7 +102,9 @@
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
     "witsec-white-label": true,
-    "witsec-mailform": true
+    "witsec-mailform": true,
+    "global_header_custom": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css\" />",
+    "global_footer_custom": "<script src=\"https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js\"></script>\n<script src=\"https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js\"></script>"
   },
   "pages": {
     "index.html": {
